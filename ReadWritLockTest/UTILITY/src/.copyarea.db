@@ -1,0 +1,19 @@
+ClearCase CopyAreaDB|4
+CFET_ACTech\ACTech_IMIX\UtilityLibProject\Utility\src
+2
+f
+11:DynamicLoader.cpp|1|144f7c9a5e8|fb7|140deac9|a32c3fed25cd440ea678aaf951872f55|0
+a:base64.cpp|1|144f7c9a789|2892|ed5af863|9de77062a67b487c8bc44367bbf604cd|0
+19:EncryptDecryptOptiMax.cpp|1|144f7c9a792|277a|78e45ade|4b241efda2404ca2a30f3845cff06e43|0
+13:ParameterHelper.cpp|1|144f7c9a785|1350|f8ee7cbd|252fc71c663442178cf9ab26c86f32a1|0
+b:logfile.cpp|1|144f7c9a5e1|4d96|6a9a93cb|e8b781261e534eb78b214ef54875d836|0
+d:CycleList.cpp|1|144f7c9a5ed|1e|95fa07ea|ab95848397c34e9dbab56c9f3a294491|0
+9:Utils.cpp|1|144f7c9a5be|41a|f7cd43ca|bf13a34616914346a04ca970f0196831|0
+12:SessionMessage.cpp|1|144f7c9a78d|2f3|f5fee4aa|dc0ba809eb4945c3ab5356fdaf7c6900|0
+9:Mutex.cpp|1|144f7c9a5cb|c48|a6cb6155|d316c0beaab343efb9443c7af8013a9d|0
+d:Component.cpp|1|144f7c9a5de|a0|4982e6c|1ac88a27cf73473c8cc1020a343f76a5|0
+e:ConfigFile.cpp|1|144f7c9a5d6|3a6d|a0e19212|eb2b619b15e146b6b8c5a9f4382ae1ef|0
+b:PubFunc.cpp|1|144f7c9a77b|48dd|296330d5|7f748cf7fbdc4415bdb7c2bfdda35b73|0
+c:Errorlog.cpp|1|144f7c9a5d3|3f67|d2147c81|785577b5daf945f993d74cfefc38ae71|0
+b:CompMgr.cpp|1|144f7c9a5f0|30e4|f41150f|e3ab56afa0094e8791506c1ce9d5486a|0
+10:LoggerStream.cpp|1|144f7c9a780|ef8|fd47888a|a674f7bbe2f14587b47a512c149c9dac|0
